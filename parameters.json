@@ -1,0 +1,33 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "virtualMachines_MBVM_name": {
+            "value": null
+        },
+        "vaults_vaultBU_name": {
+            "value": null
+        },
+        "networkInterfaces_mbvm832_name": {
+            "value": null
+        },
+        "publicIPAddresses_MBVM_ip_name": {
+            "value": null
+        },
+        "networkInterfaces_mmbvm403_name": {
+            "value": null
+        },
+        "publicIPAddresses_MMBVM_ip_name": {
+            "value": null
+        },
+        "virtualNetworks_MBTest_vnet_name": {
+            "value": null
+        },
+        "networkSecurityGroups_MBVM_nsg_name": {
+            "value": null
+        },
+        "networkSecurityGroups_MMBVM_nsg_name": {
+            "value": null
+        }
+    }
+}
